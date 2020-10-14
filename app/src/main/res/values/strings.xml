@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpeechTest</string>
+
+    <string name="tap_on_mic">Tekan mic untuk merekam</string>
+
+    <string name="speech_prompt">Katakan sesuatu&#8230;</string>
+    <string name="speech_not_supported">Maaf! Perangkat anda tidak mendukung fitur ini</string>
+
+    <string-array name="lang_array">
+        <item>en-US</item>
+        <item>en-GB</item>
+        <item>en-SG</item>
+        <item>en-PH</item>
+        <item>en-AU</item>
+        <item>id-ID</item>
+    </string-array>
+
+</resources>
